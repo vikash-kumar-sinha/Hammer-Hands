@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966797184287",
+    "project_id": "hammer-hands-2",
+    "storage_bucket": "hammer-hands-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966797184287:android:eca102a989874dd9dcb42a",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CC-QMzmy_sDJMP8Ps-Li1N9swXIisAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
